@@ -8,10 +8,10 @@ This program enables users to interact with the calculator's buttons within the 
 
 ### Screenshots of Project:
 
-#### Basic Calculator User Interface
+#### Basic Calculator User Interface:
 ![Basic Calculator User Interface](Simple_Calculator_Interface.png)
 
-#### Basic Calculator Functions
+#### Basic Calculator Functions:
 ![Basic Calculator Math](Simple_Math.png)
 
 #### Notice: The previous image displayed the calculator with an entry box showing "7 + 5 + 8", and upon pressing the button __Enter__, the calculation is performed and the output is __20__. 

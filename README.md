@@ -9,7 +9,7 @@ This program enables users to interact with the calculator's buttons within the 
 ### Screenshots of Project:
 
 #### Basic Calculator User Interface 1:
-<img src="Simple_Calculator_Interface.png" alt="Basic Calculator User Interface" width="400" />
+<img src="Simple_Calculator_Interface.png" alt="Basic Calculator User Interface" width="300" />
 
 #### Basic Calculator User Interface:
 ![Basic Calculator User Interface](Simple_Calculator_Interface.png)

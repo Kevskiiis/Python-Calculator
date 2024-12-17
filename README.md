@@ -1,10 +1,10 @@
 # Calculator
 
 ### Project Description:
-This projects consists of python code and the use of a Graphical User Interface (GUI) library known as __Tkinter__. The purpose of this project was to showcase the utlization of __Tkinter__ and to demstrate its capability for project creation. While using this library, it was easy to create a calculator with basic functions that could perform simple operations.
+This project showcases the use of Python along with the Graphical User Interface (GUI) library, __Tkinter__. The aim was to demonstrate the capabilities of __Tkinter__ in creating practical applications. Through this project, a basic calculator with simple operational functions was developed, to illustrate the ease and effectiveness of utilizing Tkinter for GUI development.
 
 ### How it runs:
-The program behind the scenes allows the user to utilize the buttons within the window of the calculator and when the calculation is ready to be initialized, the __Enter__ button is pressed and the program analyzes the current text in the entry box to output a number based on the operations.
+This program enables users to interact with the calculator's buttons within the GUI window. Once the desired inputs are entered, pressing the __Enter__ button triggers the program to process the text in the entry box and display the result of the specified operations. If a new input is desired, then pressing __clear__ will eliminate any text inside the entry box to restore the opportunity to enter a new operation.
 
 ### Screenshots of Project:
 ![Basic Calculator User Interface](Simple_Calculator_Interface.png)
